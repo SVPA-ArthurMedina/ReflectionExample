@@ -4,5 +4,6 @@
     <string name="app_name">Reflection Example</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="goodbye_string">Bye World!</string>
 
 </resources>
